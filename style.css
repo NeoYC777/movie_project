@@ -1,0 +1,12 @@
+.mode-switch {
+  font-size: 30px;
+}
+
+.page-link.active {
+  color: #ffffff;
+  background-color: #0b5ed7;
+}
+
+#data-panel {
+  margin: 0 0 10px 0;
+}
